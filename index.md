@@ -28,12 +28,6 @@ I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_bla
 - **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities -->
 
 
-<!-- {% include_relative _includes/publications.md %} -->
-
-<!-- {% include_relative _includes/projects.md %} -->
-
-<!-- {% include_relative _includes/talks.md %} -->
-
 
 
 ## Publications
@@ -44,7 +38,6 @@ I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_bla
 - **[Jan. 2024]** <a href="[https://www.sciencedirect.com/science/article/pii/S089990072200346X](https://www.sciencedirect.com/science/article/pii/S0140366423004851)" target="_blank">*Decentralized federated learning based on blockchain: concepts, framework, and challenges*</a> has been accepted by **Computer Communications**
 
 
-<!-- {% include_relative _includes/services.md %} -->
 
 
 <!--## Resources
