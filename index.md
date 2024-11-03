@@ -22,7 +22,7 @@ I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_bla
 - **Federated Learning**
 - **Edge Computing**
 - **Data Sharing**
-- - **Blockchain**
+- **Blockchain**
 
 
 <!--## Awards
