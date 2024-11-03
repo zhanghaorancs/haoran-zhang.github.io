@@ -19,9 +19,10 @@ I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_bla
 
 ## Research Interests
 <!-- - **Blockchain:** positive semi-definite manifold learning-->
-- **Blockchain**
 - **Federated Learning**
-- **Data Sharing** 
+- **Edge Computing**
+- **Data Sharing**
+- - **Blockchain**
 
 
 <!--## Awards
@@ -35,6 +36,8 @@ I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_bla
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019. -->
+
+- **[Nov. 2024]** *Fedeval: Defending Against Lazybone Attack via Multi-dimension Evaluation  in  Federated Learning*</a> has been accepted by **TOSN**
 - **[Jan. 2024]** <a href="https://www.sciencedirect.com/science/article/pii/S0140366423004851" target="_blank">*Decentralized federated learning based on blockchain: concepts, framework, and challenges*</a> has been accepted by **Computer Communications**
 
 
